@@ -9,7 +9,7 @@ import com.iweb.backend.dto.auth.LoginRequest;
 import com.iweb.backend.dto.auth.MessageResponse;
 import com.iweb.backend.dto.auth.SignupRequest;
 import com.iweb.backend.model.user.User;
-import com.iweb.backend.repository.UserRepository;
+import com.iweb.backend.repository.user.UserRepository;
 import com.iweb.backend.service.userdetails.UserDetailsImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

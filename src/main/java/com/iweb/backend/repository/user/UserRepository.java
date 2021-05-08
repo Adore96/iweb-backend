@@ -1,4 +1,4 @@
-package com.iweb.backend.repository;
+package com.iweb.backend.repository.user;
 
 import com.iweb.backend.model.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;

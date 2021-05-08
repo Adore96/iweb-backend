@@ -1,7 +1,7 @@
 package com.iweb.backend.service.userservice;
 
 import com.iweb.backend.model.user.User;
-import com.iweb.backend.repository.UserRepository;
+import com.iweb.backend.repository.user.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
